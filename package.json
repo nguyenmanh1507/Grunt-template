@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/nguyenmanh1507/Grunt-template/issues"
   },
-  "homepage": "https://github.com/nguyenmanh1507/Grunt-template#readme"
+  "homepage": "https://github.com/nguyenmanh1507/Grunt-template#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
 }
