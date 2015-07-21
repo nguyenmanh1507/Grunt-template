@@ -1,7 +1,7 @@
 {
   "name": "gruntjs-template",
   "version": "1.0.0",
-  "description": "Useful Grunt plugins + Bower dependencies",
+  "description": "Useful Grunt plugins",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
