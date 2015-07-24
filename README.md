@@ -1,3 +1,3 @@
 # Gruntjs Template
-Starter Gruntjs Tempalte for quickly development
+Starter Gruntjs Template for quickly development
 
